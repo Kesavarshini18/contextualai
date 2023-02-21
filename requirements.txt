@@ -19,7 +19,6 @@ MarkupSafe==2.1.2
 nltk==3.8.1
 outcome==1.2.0
 pycparser==2.21
-pypiwin32==223
 PySocks==1.7.1
 pyttsx3==2.90
 regex==2022.10.31
